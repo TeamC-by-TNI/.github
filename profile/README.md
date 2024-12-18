@@ -20,7 +20,7 @@ G's ACADEMY LAB18th Cチーム
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| [TRENDX](***)| ワンタイムディスカッションサービス「felizo（フェリゾ）」 | [GitHub Repo](https://github.com/organization/***) |
+| [Felizo](***)| ワンタイムディスカッションサービス「Felizo（フェリゾ）」 | [GitHub Repo](https://github.com/organization/***) |
 
 ---
 
