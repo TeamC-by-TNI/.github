@@ -5,7 +5,7 @@
 
 ## 👱 Who We Are
 
-G's ACADEMY LAB18th Cチームのチーム開発用のorganizationです。
+G's ACADEMY LAB18th Cチーム
 
 ---
 
