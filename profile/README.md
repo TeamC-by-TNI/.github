@@ -12,9 +12,7 @@ G's ACADEMY LAB18th Cチームのチーム開発用のorganizationです。
 
 ## 🛠️ What We Do
 
-- 🔍 **これをやる①**: hogehoge
-- 🌐 **これをやる②**: fugafuga
-- 📱 **これもやる③**: piyopiyo
+- 🌐 **Felizo**: 完全匿名性の『ワンタイムディスカッションサービス（OTD）』
 
 ---
 
