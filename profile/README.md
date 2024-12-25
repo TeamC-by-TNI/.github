@@ -12,7 +12,7 @@ G's ACADEMY LAB18th Cチーム
 
 ## 🛠️ What We Do
 
-- 🌐 **Felizo**: 完全匿名性の『ワンタイムディスカッションサービス（OTD）』
+🌐 **Felizo**: 完全匿名性の『ワンタイムディスカッションサービス（OTD）』
 
 ---
 
@@ -20,10 +20,10 @@ G's ACADEMY LAB18th Cチーム
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| [Felizo](***)| ワンタイムディスカッションサービス「Felizo（フェリゾ）」 | [GitHub Repo](https://github.com/organization/***) |
+| [Felizo](https://github.com/orgs/TeamC-by-TNI/projects/1?pane=info)| ワンタイムディスカッションサービス「Felizo（フェリゾ）」 | [GitHub Repo](https://github.com/TeamC-by-TNI/Felizo) |
 
 ---
 
 **Click here for the deployment page:**
-- 🌐 [Website](https://***)
+- 🌐 [Website](https://tkgeek.sakura.ne.jp/felizo/)
 ---
